@@ -3,16 +3,16 @@
 <h1 align="Center">  Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> , I'm Mohamed Fawzy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> ✨  </h1>
 
 
-## I'm a Junior Software Developer 👨‍💻
+## I'm a Junior Software Engineer 👨‍💻
 
 <!--
 **mofawzi/mofawzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently working as an associate software engineer at Path solutions.
+- 🌱 I’m currently learning Angular & Ionic.
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Development stuff.
-- 🤔 I’m looking for help in learning about Web Development and JavaScript specially (MERN - MEAN) stack.
+- 🤔 I’m looking for help in learning about Web Development and JavaScript specially (MERN - MEAN) stacks.
 - 💬 Ask me about anything and everything related to computer science, we can share experiences
 - 📫 Reach me via: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:mohamedfawzy.dev@gmail.com)
 
