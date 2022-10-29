@@ -9,7 +9,7 @@
 **mofawzi/mofawzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as an associate software engineer at Path solutions.
+- 🔭 I’m currently working as a software engineer at Azentio Software.
 - 🌱 I’m currently learning Angular & Ionic.
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Development stuff.
 - 🤔 I’m looking for help in learning about Web Development and JavaScript specially (MERN - MEAN) stacks.
