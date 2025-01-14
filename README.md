@@ -4,16 +4,16 @@
 <h2 align="Center">Its Mohamed Fawzy's Profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> ✨</h2>
 
 
-## I'm a Junior Software Engineer 👨‍💻
+## Senior Software Engineer @SDAIA, KSA 👨‍💻
 
 <!--
 **mofawzi/mofawzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a software engineer at Azentio Software.
-- 🌱 I’m currently learning Angular & Ionic.
-- 👯 I’m looking to collaborate on Cpp projects and Basic Web Development stuff.
-- 🤔 I’m looking for help in learning about Web Development and JavaScript specially (MERN - MEAN) stacks.
+- 🔭 Currently working as a senior front-end engineer at SDAIA.
+- 🌱 Currently learning Angular, Next, and React Native.
+- 👯 Looking to collaborate on Cpp projects and Basic Web Development stuff.
+- 🤔 I’m looking for help in learning about Web Development and Typescript specially (MERN - MEAN) stacks.
 - 💬 Ask me about anything and everything related to computer science, we can share experiences
 - 📫 Reach me via: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:mohamedfawzy.dev@gmail.com)
 
